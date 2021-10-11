@@ -16,6 +16,8 @@ We were able to alter the original script to gather specific analysis including 
     - Raymon Anthony Doane: 11,606 votes (3.1%)
     - Charles Casper Stockham: 85,213 votes (23.0%)
   - Diane Degette won the election with 272,892 votes cast for her, giving her a winning percentage of 73.8% of all votes cast for this election
+  
   ![Py_Pol_Challenge_Results](Resources/election_results.png)
   
 ## Election Audit Summary
+We have demonstrated that this script is viable for this specific election, however, we are more than confident that this script holds a very well constructed skeleton that can be modified to suit any election. Using the existing script, it would be able to handle a statewide election and analyze county participation. It could even handle multiple .CSV files and handle muliple elections by simply repurposing existing code and integrating it into the script. Furthermore, if the election commission would like more analysis on voter turnout vs registered voters vs eligible voting population and could supply us with additional raw data, we could use additional loops and logic statements to provide this information. This script has a lot of potential and would be very benificial for the election commission if it is implemented for various tasks.
