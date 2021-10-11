@@ -16,6 +16,6 @@ We were able to alter the original script to gather specific analysis including 
     - Raymon Anthony Doane: 11,606 votes (3.1%)
     - Charles Casper Stockham: 85,213 votes (23.0%)
   - Diane Degette won the election with 272,892 votes cast for her, giving her a winning percentage of 73.8% of all votes cast for this election
-  ![Py_Pol_Challenge_Results](Resources/election_analysis.png)
+  ![Py_Pol_Challenge_Results](Resources/election_results.png)
   
 ## Election Audit Summary
